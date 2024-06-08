@@ -2,3 +2,5 @@ Belajar git dan github
 belajar menggunakan docker
 belajar dart
 belajar flutter
+membuat aplikasi mobile
+mendapatkan banyak ilmu
