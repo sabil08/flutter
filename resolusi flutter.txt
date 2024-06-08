@@ -1,0 +1,4 @@
+Belajar git dan github
+belajar menggunakan docker
+belajar dart
+belajar flutter
